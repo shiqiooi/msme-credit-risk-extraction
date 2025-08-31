@@ -20,3 +20,27 @@ It focuses on automating the extraction of financial indicators from Malaysian M
 ---
 
 ## 📂 Repository Structure
+
+
+
+---
+
+## 🚀 Roadmap
+- ✅ Phase 1: Planning document & methodology  
+- 🔄 Phase 2: Prototype implementation  
+  - Extraction of financial ratios & loan data  
+  - ML feature ranking with Random Forest  
+  - Interactive Streamlit dashboard  
+- 📊 Phase 3: Evaluation with expert survey + final report  
+
+---
+
+## ⚙️ Tech Stack (Planned for Phase 2)
+- **Languages & Libraries:** Python, pdfplumber, pandas, scikit-learn, Streamlit  
+- **Techniques:** rule-based parsing, Random Forest feature prioritization  
+- **Tools:** Canva, Figma (UI prototyping)
+
+---
+
+## 📜 License
+Academic use only.
