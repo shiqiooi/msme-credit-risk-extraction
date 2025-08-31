@@ -4,7 +4,7 @@ FYP Phase 1 (planning doc) – AI-Powered Automation of Credit Risk Report Extra
 # AI-Powered Automation of Credit Risk Report Extraction for MSMEs
 
 This repository hosts my Final Year Project (Capstone Project 1 & 2) at Sunway University.  
-It focuses on automating the extraction of financial indicators from Malaysian MSME credit-risk reports using rule-based parsing. and machine learning.
+It focuses on automating the extraction of financial indicators from Malaysian MSME credit-risk reports using rule-based parsing and machine learning.
 
 ---
 
